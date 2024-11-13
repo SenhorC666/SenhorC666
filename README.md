@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ... python,for now.
 - 💞️ I’m looking to collaborate on ... develop software and I am very interested in creating AI.
 - 📫 How to reach me ...  senhorc666@gmail.com
-- 😄 Pronouns: ... he/his
+- 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I'm Brazilian, I'm very helpful and attentive, if you're interested in helping me, giving me any tips or even hiring me, feel free to contact me.
 
 <!---
